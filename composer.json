@@ -1,5 +1,5 @@
 {
-	"name": "radnan/rdn-upload",
+	"name": "jbmchd/rdn-upload",
 	"description": "Zend Framework 2 module to manage file uploads easily and securely",
 	"keywords": ["zf2", "zend", "file", "upload", "cloud"],
 	"license": "MIT",
